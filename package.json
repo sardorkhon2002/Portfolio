@@ -9,13 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
     "lucide-react": "^0.294.0",
     "next": "latest",
     "nextjs-progressbar": "^0.0.16",
     "prettier": "^3.1.0",
     "react": "latest",
     "react-dom": "latest",
-    "react-icons": "^4.12.0"
+    "react-icons": "^4.12.0",
+    "react-pro-sidebar": "^1.1.0-alpha.1",
+    "react-router-dom": "^6.20.1"
   },
   "devDependencies": {
     "@types/node": "latest",
