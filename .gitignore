@@ -2,9 +2,16 @@
 
 # dependencies
 /node_modules
+/client/node_modules
+/server/node_modules
+/client/.idea
+/server/.idea
+/client/.gitignore
+/server/.gitignore
 /.pnp
 .pnp.js
 /.idea
+/.gitignore
 
 # testing
 /coverage
